@@ -1,0 +1,6 @@
+{
+  "name": "BudgetFlow",
+  "description": "AMOLED Personal Finance & Multi-Bank Manager with Credit Card Cycles, Friends Debt Splitter, and Expense Reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
